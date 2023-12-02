@@ -30,3 +30,12 @@ Next, fill in the information to launch the bot in config.py
 
 Токен получаем у https://t.me/BotFather
 
+We get the token from https://t.me/BotFather
+
+Пишем приветственное сообщение для бота 
+
+Writing a welcome message for the bot
+
+Добавлям бота с правами администратора в группу модераторов и прописываем команду /id получаем id группы и вписываем его в GROUP_CHAT_ID
+
+Add a bot with administrator rights to the moderators group and enter the /id command, get the group id and enter it in GROUP_CHAT_ID
