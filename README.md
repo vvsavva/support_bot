@@ -1,9 +1,9 @@
 # support_bot
 Бот, который связывает пользователя с агентом поддержки
 
-support_bot for support by [vsavva](https://t.me/vvsavva)
+support_bot for support by [vvsavva](https://t.me/vvsavva)
 
-бот поддержки от [vsavva](https://t.me/vvsavva)
+бот поддержки от [vvsavva](https://t.me/vvsavva)
 # Settings Настройка 
 Setting up the bot to work correctly
 
